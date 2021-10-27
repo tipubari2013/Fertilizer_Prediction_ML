@@ -12,3 +12,7 @@ Researcher, BARI, Gazipur, Bangladesh
 Objective:
 
 The goal of this mini project is to analyze and predict different fertilizers for crops using appropriate model
+
+--
+
+Dataset: https://github.com/tipubari2013/Fertilizer_Prediction_ML/blob/main/Fertilizer_Prediction.csv
